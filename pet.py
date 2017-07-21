@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+#Author Rodrigo Ramos
 message = raw_input('Ingresa tu mensaje: ')
 text_l = len(message)
 print ('-'*text_l)
